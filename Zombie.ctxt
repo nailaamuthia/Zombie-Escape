@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=walk\ dead\ hp\ speed
+comment1.target=Zombie(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ moveZombie()
+comment5.params=
+comment5.target=void\ hit()
+comment6.params=
+comment6.target=void\ die()
+comment7.params=
+comment7.target=void\ deathAnimation()
+comment8.params=
+comment8.target=void\ dieInstant()
+numComments=9
