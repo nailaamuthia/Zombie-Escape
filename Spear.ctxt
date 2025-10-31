@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Spear
+comment1.params=vx
+comment1.target=Spear(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ removeSelf()
+numComments=4

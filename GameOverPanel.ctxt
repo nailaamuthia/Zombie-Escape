@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameOverPanel
+comment1.params=
+comment1.target=GameOverPanel()
+comment2.params=img\ w
+comment2.target=void\ scaleToWidth(greenfoot.GreenfootImage,\ int)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExitButtonSmall
+comment1.params=
+comment1.target=ExitButtonSmall()
+comment2.params=f
+comment2.target=greenfoot.GreenfootImage\ scaled(java.lang.String)
+comment3.params=
+comment3.target=void\ onClick()
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InGameBackButton
+comment0.text=\r\n\ InGameBackButton\ \u2014\ tombol\ "kembali"\ dari\ dalam\ game\ ke\ Level\ Select.\r\n\ Menghentikan\ BGM\ game\ dan\ kembali\ ke\ menu\ pemilihan\ level.\r\n
+comment1.params=
+comment1.target=InGameBackButton()
+comment1.text=\r\n\ Konstruktor\:\ set\ gambar\ tombol\ dengan\ aman\r\n
+comment2.params=
+comment2.target=void\ onClick()
+comment2.text=\r\n\ Aksi\ saat\ tombol\ diklik.\r\n\ Berfungsi\ untuk\ menghentikan\ BGM\ dan\ kembali\ ke\ LevelSelectWorld.\r\n
+comment3.params=file
+comment3.target=void\ setImageSafe(java.lang.String)
+comment3.text=\r\n\ Memuat\ gambar\ tombol\ dengan\ perlindungan\ error.\r\n\ Jika\ file\ hilang,\ akan\ diganti\ gambar\ placeholder\ dengan\ teks\ "Back".\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CreditsButton
+comment1.params=
+comment1.target=CreditsButton()
+comment2.params=
+comment2.target=void\ onClick()
+comment3.params=file\ targetH
+comment3.target=void\ setImageSafe(java.lang.String,\ int)
+comment3.text=util\ aman
+numComments=4

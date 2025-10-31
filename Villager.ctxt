@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Villager
+comment1.params=homes
+comment1.target=Villager(java.util.List)
+comment2.params=img\ targetH
+comment2.target=void\ scaleToHeight(greenfoot.GreenfootImage,\ int)
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ moveTowardsTarget()
+comment6.params=
+comment6.target=void\ animateWalk()
+comment7.params=
+comment7.target=void\ setNewTarget()
+numComments=8

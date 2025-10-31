@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuWorld
+comment0.text=\r\n\ MenuWorld\ \u2014\ tampilan\ awal\ game\ (menu\ utama)\r\n\ Menampilkan\ tombol\ Start,\ Exit,\ dan\ Credits.\r\n\ Memutar\ BGM\ intro\ saat\ berada\ di\ menu.\r\n
+comment1.params=
+comment1.target=MenuWorld()
+comment2.params=
+comment2.target=void\ stopped()
+comment3.params=file
+comment3.target=greenfoot.GreenfootImage\ safeBackground(java.lang.String)
+numComments=4

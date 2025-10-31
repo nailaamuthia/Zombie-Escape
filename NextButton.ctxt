@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NextButton
+comment1.params=levelNow
+comment1.target=NextButton(int)
+comment2.params=f
+comment2.target=greenfoot.GreenfootImage\ scaled(java.lang.String)
+comment3.params=
+comment3.target=void\ onClick()
+numComments=4
